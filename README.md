@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tijanisheu
-- 👀 I’m interested in Devops
+- 👀 I’m interested in Web Development and Devops
 - 🌱 I’m currently learning User Experience(UX) design and Web Development(HTML, CSS and Javascript)
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 You can reach me on omegabliss23@gmail.com
